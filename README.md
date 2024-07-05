@@ -1,4 +1,4 @@
-# Predicting-CO2-Emission-
+# CO2-Emissions-Prediction
 This project aims to analyse a dataset provided by the Canadian Government, detailing the
 amount of CO2 emissions from vehicles. Our focus lies in identifying the impact of different
 variables on CO2 emissions, examining the intricacies of how emissions vary when fuel
@@ -11,3 +11,11 @@ We implemented the following models:
 3. Artificial Neural Network (ANN)
 4. XGBoost
 5. CatBoost (Implemented from Research Paper)
+
+## Contributors
+| Name |
+| :-------- |
+| `Pratik Patil` |
+| `Suyash Patil` |
+| `Rakul Chauhan` |
+| `Sahil Somil` |
